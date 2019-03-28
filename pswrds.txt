@@ -1,0 +1,19 @@
+USER / EMPLOYEE
+Email id : mathan@gmail.com
+Passowrd : Test@123
+Empid : EMP10806121 (in case of password recovery)
+
+ADMIN
+For admin login click on the admin login then provide username and password
+Email id : admin
+Passowrd : Test@12345
+
+
+//Brought to buy mathanganJeyakantharajah
+//DS Office Leave Management system For Jafna
+//Dependencies :: Android App using Vuforia and Decentrilized Methodology
+//My Git Hub id :Mathan1995
+//Language used
+    *PHP
+    *HTML+CSS
+    *JS ES6     
